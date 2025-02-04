@@ -8,7 +8,7 @@ params = {"q": "London", "appid": API_KEY}
 response = requests.get(API_URL, params=params)
 data = response.json()
 
-with open("../data/raw/weather.json", "w") as f:
+with open("../data/raw/products.json", "w") as f:
     json.dump(data, f)
 
 print("Data saved successfully!")
