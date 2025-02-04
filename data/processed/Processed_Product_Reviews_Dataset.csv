@@ -1,0 +1,101 @@
+,Product_Name,Category,Price,Review_Rating,Review_Text,Sentiment
+0,Smartphone,Computers,212,1.6,Excellent performance and fast processing speed.,Negative
+1,Smartwatch,Computers,843,2.4,"Great gaming experience, worth the price.",Negative
+2,Fitness Tracker,Books,349,2.4,"Comfortable to hold, great for long reading sessions.",Negative
+3,Wireless Headphones,Computers,1031,1.3,Stylish and durable but lacks some features.,Negative
+4,Bluetooth Speaker,Computers,718,2.6,Perfect for reading and entertainment.,Negative
+5,E-Book Reader,Gaming,517,4.3,"Great gaming experience, worth the price.",Positive
+6,Digital Camera,Wearables,1047,2.1,"Comfortable to hold, great for long reading sessions.",Negative
+7,Laptop,Computers,1211,3.1,"Great gaming experience, worth the price.",Positive
+8,Fitness Tracker,Computers,653,2.8,Excellent performance and fast processing speed.,Negative
+9,Tablet,Wearables,513,4.3,Amazing sound quality! Highly recommended.,Positive
+10,Laptop,Electronics,1090,4.7,Excellent performance and fast processing speed.,Positive
+11,E-Book Reader,Computers,1245,3.3,"Comfortable to hold, great for long reading sessions.",Positive
+12,Tablet,Gaming,671,1.2,Excellent performance and fast processing speed.,Negative
+13,Bluetooth Speaker,Photography,414,1.5,"Motivating fitness insights, very useful!",Negative
+14,Digital Camera,Photography,1369,3.7,Amazing sound quality! Highly recommended.,Positive
+15,E-Book Reader,Wearables,95,3.8,Perfect for reading and entertainment.,Positive
+16,Smartwatch,Books,780,4.5,High-quality images but expensive.,Positive
+17,E-Book Reader,Electronics,1142,2.4,High-quality images but expensive.,Negative
+18,Gaming Console,Wearables,1031,3.5,"Comfortable to hold, great for long reading sessions.",Positive
+19,Gaming Console,Gaming,603,1.7,Excellent performance and fast processing speed.,Negative
+20,E-Book Reader,Electronics,563,1.6,High-quality images but expensive.,Negative
+21,Gaming Console,Wearables,699,3.5,Stylish and durable but lacks some features.,Positive
+22,Digital Camera,Books,1099,2.7,High-quality images but expensive.,Negative
+23,E-Book Reader,Electronics,402,2.2,Battery life is short but performance is great.,Negative
+24,Tablet,Electronics,441,2.4,Stylish and durable but lacks some features.,Negative
+25,Tablet,Electronics,1209,4.0,Good bass but connectivity issues at times.,Positive
+26,Smartphone,Electronics,184,2.0,"Comfortable to hold, great for long reading sessions.",Negative
+27,Digital Camera,Computers,310,3.6,Battery life is short but performance is great.,Positive
+28,Bluetooth Speaker,Books,389,4.6,High-quality images but expensive.,Positive
+29,Smartwatch,Electronics,1157,2.4,Good bass but connectivity issues at times.,Negative
+30,Smartwatch,Electronics,1026,4.8,"Comfortable to hold, great for long reading sessions.",Positive
+31,Laptop,Computers,872,3.0,Perfect for reading and entertainment.,Positive
+32,Bluetooth Speaker,Books,645,2.0,Battery life is short but performance is great.,Negative
+33,Smartphone,Photography,941,1.4,Excellent performance and fast processing speed.,Negative
+34,Gaming Console,Computers,315,2.1,Excellent performance and fast processing speed.,Negative
+35,Gaming Console,Photography,738,1.4,Battery life is short but performance is great.,Negative
+36,Smartphone,Wearables,1093,1.0,Excellent performance and fast processing speed.,Negative
+37,Gaming Console,Books,869,2.5,"Comfortable to hold, great for long reading sessions.",Negative
+38,E-Book Reader,Books,1475,3.3,Excellent performance and fast processing speed.,Positive
+39,Gaming Console,Wearables,847,1.9,Good bass but connectivity issues at times.,Negative
+40,Wireless Headphones,Computers,700,1.5,High-quality images but expensive.,Negative
+41,E-Book Reader,Electronics,94,4.7,Stylish and durable but lacks some features.,Positive
+42,Smartwatch,Gaming,1233,3.7,High-quality images but expensive.,Positive
+43,Laptop,Wearables,280,4.0,"Motivating fitness insights, very useful!",Positive
+44,E-Book Reader,Books,307,1.7,High-quality images but expensive.,Negative
+45,Smartwatch,Electronics,570,4.0,Excellent performance and fast processing speed.,Positive
+46,Laptop,Computers,825,1.3,High-quality images but expensive.,Negative
+47,Smartwatch,Books,526,3.6,Amazing sound quality! Highly recommended.,Positive
+48,Smartwatch,Photography,58,2.2,Good bass but connectivity issues at times.,Negative
+49,E-Book Reader,Wearables,435,3.1,"Great gaming experience, worth the price.",Positive
+50,Fitness Tracker,Computers,62,2.6,"Motivating fitness insights, very useful!",Negative
+51,Bluetooth Speaker,Computers,57,2.1,Excellent performance and fast processing speed.,Negative
+52,Bluetooth Speaker,Wearables,1470,4.3,"Motivating fitness insights, very useful!",Positive
+53,Smartphone,Books,214,3.8,"Motivating fitness insights, very useful!",Positive
+54,Fitness Tracker,Gaming,230,1.7,Battery life is short but performance is great.,Negative
+55,Fitness Tracker,Wearables,498,3.0,"Great gaming experience, worth the price.",Positive
+56,Wireless Headphones,Electronics,447,1.0,Stylish and durable but lacks some features.,Negative
+57,Smartwatch,Photography,820,3.8,"Great gaming experience, worth the price.",Positive
+58,Wireless Headphones,Computers,104,3.8,Battery life is short but performance is great.,Positive
+59,Smartphone,Electronics,468,1.3,Good bass but connectivity issues at times.,Negative
+60,Smartphone,Electronics,1335,3.6,Amazing sound quality! Highly recommended.,Positive
+61,Tablet,Books,360,3.2,Good bass but connectivity issues at times.,Positive
+62,Fitness Tracker,Books,1303,4.3,Excellent performance and fast processing speed.,Positive
+63,Tablet,Gaming,431,4.9,"Comfortable to hold, great for long reading sessions.",Positive
+64,Tablet,Computers,438,3.1,Excellent performance and fast processing speed.,Positive
+65,Gaming Console,Books,281,1.3,Excellent performance and fast processing speed.,Negative
+66,Laptop,Books,1094,4.3,Amazing sound quality! Highly recommended.,Positive
+67,Laptop,Computers,1347,2.1,"Comfortable to hold, great for long reading sessions.",Negative
+68,Smartwatch,Electronics,88,3.1,"Motivating fitness insights, very useful!",Positive
+69,Laptop,Computers,1407,1.3,Stylish and durable but lacks some features.,Negative
+70,Fitness Tracker,Electronics,557,4.0,Amazing sound quality! Highly recommended.,Positive
+71,Bluetooth Speaker,Photography,721,1.4,"Great gaming experience, worth the price.",Negative
+72,Tablet,Gaming,149,3.2,High-quality images but expensive.,Positive
+73,Smartwatch,Photography,1494,3.7,Perfect for reading and entertainment.,Positive
+74,Smartphone,Gaming,1278,3.3,Excellent performance and fast processing speed.,Positive
+75,Smartwatch,Electronics,878,4.0,"Motivating fitness insights, very useful!",Positive
+76,Smartwatch,Wearables,814,4.7,Amazing sound quality! Highly recommended.,Positive
+77,Digital Camera,Wearables,454,4.2,"Great gaming experience, worth the price.",Positive
+78,Fitness Tracker,Wearables,436,3.7,"Comfortable to hold, great for long reading sessions.",Positive
+79,E-Book Reader,Electronics,415,2.4,Amazing sound quality! Highly recommended.,Negative
+80,Smartphone,Electronics,1103,1.5,Good bass but connectivity issues at times.,Negative
+81,Wireless Headphones,Electronics,902,1.1,"Comfortable to hold, great for long reading sessions.",Negative
+82,Gaming Console,Electronics,71,3.6,Excellent performance and fast processing speed.,Positive
+83,Smartphone,Wearables,1113,4.1,"Great gaming experience, worth the price.",Positive
+84,Wireless Headphones,Photography,1412,2.9,Amazing sound quality! Highly recommended.,Negative
+85,Fitness Tracker,Gaming,744,2.9,Good bass but connectivity issues at times.,Negative
+86,Laptop,Books,92,3.5,Good bass but connectivity issues at times.,Positive
+87,Smartwatch,Books,726,2.3,High-quality images but expensive.,Negative
+88,Fitness Tracker,Electronics,1460,4.1,"Motivating fitness insights, very useful!",Positive
+89,E-Book Reader,Photography,632,4.0,Amazing sound quality! Highly recommended.,Positive
+90,Wireless Headphones,Electronics,1456,3.5,High-quality images but expensive.,Positive
+91,Smartwatch,Photography,1339,3.1,High-quality images but expensive.,Positive
+92,E-Book Reader,Electronics,493,1.9,Excellent performance and fast processing speed.,Negative
+93,Smartphone,Computers,180,3.2,Perfect for reading and entertainment.,Positive
+94,Digital Camera,Photography,52,4.6,Excellent performance and fast processing speed.,Positive
+95,Smartphone,Computers,752,2.0,High-quality images but expensive.,Negative
+96,Smartphone,Books,894,3.0,Amazing sound quality! Highly recommended.,Positive
+97,Bluetooth Speaker,Computers,724,2.6,Battery life is short but performance is great.,Negative
+98,Wireless Headphones,Wearables,867,5.0,Battery life is short but performance is great.,Positive
+99,Bluetooth Speaker,Electronics,115,4.4,"Great gaming experience, worth the price.",Positive

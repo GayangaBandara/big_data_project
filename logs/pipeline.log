@@ -1,0 +1,17 @@
+import logging
+
+# Configure logging
+logging.basicConfig(filename="../logs/pipeline.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+logging.info("🚀 Data pipeline started!")
+
+try:
+    df = pd.read_csv("../data/raw/products.csv")
+    logging.info("✅ Data loaded successfully!")
+    
+    df_cleaned = df.dropna()
+    df_cleaned.to_csv("../data/processed/cleaned_data.csv", index=False)
+    logging.info("✅ Data cleaned and saved successfully!")
+
+except Exception as e:
+    logging.error(f"Pipeline Error: {e}")
