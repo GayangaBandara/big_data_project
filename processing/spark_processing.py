@@ -5,7 +5,7 @@ from pyspark.sql.functions import col
 spark = SparkSession.builder.appName("YouTubeCommentsProcessing").getOrCreate()
 
 # Load JSON file
-json_path = "../data/raw/youtube_comments.json"  # Update path if needed
+json_path = "../big data project/data/raw/youtube_comments.json"  # Update path if needed
 df = spark.read.option("multiline", "true").json(json_path)
 
 # Extract relevant fields
