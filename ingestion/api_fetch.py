@@ -1,25 +1,26 @@
-import requests
 import json
+from googleapiclient.discovery import build
 
-# OpenWeather API Details
-API_URL = "https://api.openweathermap.org/data/2.5/weather"
-API_KEY = "your_actual_api_key_here"  # Replace with your OpenWeather API key
+# Youtube API Details
+API_KEY = "AIzaSyCI0mgf6EXWR5qqNe_7WWlLr_bbtQayI68"
+VIDEO_ID = "cOdynPv8cok"
 
-# Set location (e.g., London)
-params = {"q": "London", "appid": API_KEY}
+youtube = build('youtube', 'v3', developerKey=API_KEY)
 
-# Fetch data from OpenWeather API
-response = requests.get(API_URL, params=params)
+request = youtube.commentThreads().list(
+        part="snippet",
+        videoId=VIDEO_ID,
+        maxResults=1000,
+        textFormat="plainText"
+)
+response = request.execute()
 
-# Check if API request was successful
-if response.status_code == 200:
-    data = response.json()
-
-    # Save the response data into a file
-    with open("data/raw/weather.json", "w") as f:
-        json.dump(data, f, indent=4)
-
+try:
+    response = request.execute()  # Execute API request
+    with open("data/raw/youtube_comments.json", "w") as f:  # Save to a JSON file
+        json.dump(response, f, indent=4)
     print("✅ Data saved successfully!")
 
-else:
-    print(f"❌ Error fetching data: {response.status_code} - {response.text}")
+except Exception as e:
+    print(f"❌ Error fetching data: {e}")
+
