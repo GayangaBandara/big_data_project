@@ -6,7 +6,7 @@ import pickle
 <<<<<<< HEAD
 df = pd.read_csv("../data/processed/cleaned_data.csv")
 =======
-df = pd.read_csv("../data/processed/part-00000-55078bd3-eca0-4078-8064-721c27ee24fc-c000.csv")
+df = pd.read_csv("../data/processed/part-00000-55078bd3-eca0-4078-8064-721c27ee24fc-c000.csv.csv")
 >>>>>>> 796738e (Dashbord Update)
 
 X = df[['Feature1', 'Feature2']]

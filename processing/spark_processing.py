@@ -24,7 +24,7 @@ df_cleaned = df_cleaned.dropna()
 df_cleaned = df_cleaned.filter(expr("length(comment) > 5"))
 
 # Save processed data as CSV
-output_path = "processed_youtube_comments.csv"
+output_path = "processed_part-00000-55078bd3-eca0-4078-8064-721c27ee24fc-c000.csv"
 df_cleaned.write.csv(output_path, header=True)
 
 print("✅ YouTube comments processed and saved as CSV!")
