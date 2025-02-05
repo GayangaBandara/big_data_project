@@ -10,7 +10,11 @@ try:
     logging.info("✅ Data loaded successfully!")
     
     df_cleaned = df.dropna()
+<<<<<<< HEAD
     df_cleaned.to_csv("../data/processed/cleaned_data.csv", index=False)
+=======
+    df_cleaned.to_csv("../data/processed/part-00000-55078bd3-eca0-4078-8064-721c27ee24fc-c000.csv", index=False)
+>>>>>>> 796738e (Dashbord Update)
     logging.info("✅ Data cleaned and saved successfully!")
 
 except Exception as e:
